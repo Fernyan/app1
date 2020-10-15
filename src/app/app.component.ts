@@ -19,4 +19,5 @@ export class AppComponent {
     this.jogoEmAndamento = true
     this.tipoEncerramento = undefined
   }
+  // salve
 }
